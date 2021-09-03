@@ -1,2 +1,2 @@
 ### PSekishov.github.com.io
-[React](http://example.com/ "React")
+[React](http://psekishov.github.io\react-show/ "React")
