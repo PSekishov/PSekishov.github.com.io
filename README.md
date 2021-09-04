@@ -11,4 +11,4 @@
 
 >[Formula (HTML/CSS/BOOTSTRAP/JS)](https://live.studiohope.com.ua "studiohope")
 
-
+>[Rule (PYTHON/DJANGO/HTML/CSS/BOOTSTRAP/JS)](https://rule.studiohope.site "Rule")
