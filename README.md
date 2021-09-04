@@ -3,7 +3,7 @@
 
 >[Taxi (REACT)](http://react.studiohope.com.ua "React Site Taxi")
 
->[Clinic Dr. Steve (PHP/LARAVEL/CSS/BOOTSTRAP/JS/JQUERY/JQUERYUI)](http://h96085oj.beget.tech "Site Clinic Dr. Steve")
+>[Clinic Dr. Steve + Admin Panel (PHP/LARAVEL/CSS/BOOTSTRAP/JS/JQUERY/JQUERYUI)](http://h96085oj.beget.tech "Site Clinic Dr. Steve")
 
 >[Studiohope (HTML/CSS/JS)](https://studiohope.com.ua "studiohope")
 
@@ -11,4 +11,4 @@
 
 >[Formula (HTML/CSS/BOOTSTRAP/JS)](https://live.studiohope.com.ua "studiohope")
 
->[Rule (PYTHON/DJANGO/HTML/CSS/BOOTSTRAP/JS)](https://rule.studiohope.site "Rule")
+>[Rule + Admin Panel (PYTHON/DJANGO/HTML/CSS/BOOTSTRAP/JS)](https://rule.studiohope.site "Rule")
