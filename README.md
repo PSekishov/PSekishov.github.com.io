@@ -7,5 +7,5 @@
 
 >[Studiohope (HTML/CSS)](https://studiohope.com.ua "studiohope")
 
->[laraveltest Mega Menu (LARAVEL/PHP/HTML/CSS/JS/JQUERY)](http://laraveltest.studiohope.com.ua "Mega Menu")
+>[Mega Menu (LARAVEL/PHP/HTML/CSS/JS/JQUERY)](http://laraveltest.studiohope.com.ua "Mega Menu")
 
