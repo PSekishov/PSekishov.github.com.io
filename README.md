@@ -1,7 +1,7 @@
 ### psekishov.github.com.io
 >[Taxi (HTML/CSS)](http://psekishov.github.io/static-taxi "Static Site Taxi")
 
->[Taxi (REACT)](http://react.studiohope.com.ua "React Site Taxi")
+>[SpiceX (REACT)](http://react.studiohope.com.ua "React SpiceX")
 
 >[Clinic Dr. Steve + Admin Panel (PHP/LARAVEL/CSS/BOOTSTRAP/JS/JQUERY/JQUERYUI)](http://h96085oj.beget.tech "Site Clinic Dr. Steve")
 
