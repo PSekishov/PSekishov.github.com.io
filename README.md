@@ -3,6 +3,8 @@
 
 >[SpiceX (REACT)](http://react.studiohope.com.ua "React SpiceX")
 
+>[Cinema (JS)](https://psekishov.github.io/cinema/ "Cinema online")
+
 >[Clinic Dr. Steve + Admin Panel (PHP/LARAVEL/CSS/BOOTSTRAP/JS/JQUERY/JQUERYUI)](http://h96085oj.beget.tech "Site Clinic Dr. Steve")
 
 >[Studiohope (HTML/CSS/JS)](https://studiohope.com.ua "studiohope")
