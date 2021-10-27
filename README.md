@@ -14,3 +14,7 @@
 >[Formula (HTML/CSS/BOOTSTRAP/JS)](https://live.studiohope.com.ua "studiohope")
 
 >[Rule + Admin Panel (PYTHON/DJANGO/HTML/CSS/BOOTSTRAP/JS)](https://rule.studiohope.site "Rule")
+
+>[Landing Page Grocery Store (HTML/CSS)](https://psekishov.github.io/grocerystore/ "Grocery Store")
+
+
