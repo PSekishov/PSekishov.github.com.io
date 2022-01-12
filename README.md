@@ -16,5 +16,7 @@
 >[Rule + Admin Panel (PYTHON/DJANGO/HTML/CSS/BOOTSTRAP/JS)](https://rule.studiohope.site "Rule")
 
 >[Landing Page Grocery Store (HTML/CSS)](https://psekishov.github.io/grocerystore/ "Grocery Store")
+>
+>[SPA React (React/Bootstarp/HTML/CSS)](https://psekishov.github.io/react-food/ "Food")
 
 
