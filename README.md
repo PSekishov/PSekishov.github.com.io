@@ -17,6 +17,6 @@
 
 >[Landing Page Grocery Store (HTML/CSS)](https://psekishov.github.io/grocerystore/ "Grocery Store")
 >
->[SPA React (React/Bootstarp/HTML/CSS)](https://psekishov.github.io/react-food/ "Food")
+>[SPA React (React/Bootstrap/HTML/CSS)](https://psekishov.github.io/react-food/ "Food")
 
 
